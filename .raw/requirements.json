@@ -1,0 +1,9 @@
+{
+    "template": "Data Sharing - MySQL API",
+    "credentials": [
+        {
+            "type": "MYSQL",
+            "name": "mysql"
+        }
+    ]
+}
