@@ -21,7 +21,7 @@ This repository provides a **MySQL Integration API Template** using the RAW Labs
 ## Getting Started
 
 1. **Deploy the API:**
-   - Visit the [Data Sharing MySQL Starter Template](https://www.raw-labs.com/templates/data-sharing-mysql-starter).
+   - Visit the [MySQL Database Integration API Starter](https://www.raw-labs.com/templates/mysql-database-integration-api-starter).
    - Click the **"Get Started"** button to deploy the template.
    - If you don’t have a RAW account, you’ll be prompted to create one for free. Deployment and account setup are seamless—just one click away!
 
@@ -72,7 +72,7 @@ To document parameters, enforce types or default values, add metadata at the top
 
 ## Next Steps
 
-Visit the [Data Sharing MySQL Starter Template](https://www.raw-labs.com/templates/data-sharing-mysql-starter) page, deploy this template and get started using RAW.
+Visit the [MySQL Database Integration API Starter](https://www.raw-labs.com/templates/mysql-database-integration-api-starter) page, deploy this template and get started using RAW.
 
 When you create your RAW account, you will be able to view and run these endpoints in the RAW catalog, as well as quickly modify these endpoints or create new ones in the RAW workspace, in our easy-to-use web IDE.
 
