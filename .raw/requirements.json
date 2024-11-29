@@ -1,5 +1,5 @@
 {
-    "template": "Data Sharing - MySQL API",
+    "template": "Data Sharing - MySQL",
     "credentials": [
         {
             "type": "MYSQL",
